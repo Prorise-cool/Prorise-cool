@@ -9,18 +9,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
 
 
-<br/>
-
-
-<div align="center">
-  <br/>
-  <a href="https://prorise666.site" target="_blank" title="访问我的个人博客">
-    <img src="https://bu.dusays.com/2025/12/05/69325a45b2343.png" width="100%" style="border-radius: 8px; border: 2px solid #e1e4e8;" alt="Prorise Blog Entrance" />
-  </a>
-  <br/>
-</div>
-
-
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/Prorise-cool" style="text-decoration: none;">
@@ -196,5 +184,13 @@
 <p align="center">
   <i>让我们一起探索代码的无限可能!✨</i> 
 </p>
+
+<div align="center">
+  <br/>
+  <a href="https://prorise666.site" target="_blank" title="访问我的个人博客">
+    <img src="https://bu.dusays.com/2025/12/05/69325a45b2343.png" width="100%" style="border-radius: 8px; border: 2px solid #e1e4e8;" alt="Prorise Blog Entrance" />
+  </a>
+  <br/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
